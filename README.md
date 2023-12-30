@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on couriers algorithms
-- 🌱 I’m currently learning [**THE BASE**](https://en.wikipedia.org/wiki/Computer_science)
-- ⚡ [**Holy Bible**](https://tc39.es/ecma262/)
+- 🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/Computer_science" target="_blank">**THE BASE**</a>
+- ⚡ <a href="https://tc39.es/ecma262/" target="_blank">**Holy Bible**</a>
 #
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)

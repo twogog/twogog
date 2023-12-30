@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on couries algorithms
+- 🔭 I’m currently working on couriers algorithms
 - 🌱 I’m currently learning [**THE BASE**](https://en.wikipedia.org/wiki/Computer_science)
 - ⚡ [**Holy Bible**](https://tc39.es/ecma262/)
 #
